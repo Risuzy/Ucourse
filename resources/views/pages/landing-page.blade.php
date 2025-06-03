@@ -161,7 +161,7 @@
             <div class="col-md-7">
                 <h2 class="featurette-heading fw-normal lh-1 mx-5">Belajar disini bisa bikin makin pintar</h2>
                 <br>
-                <p class="lead mx-5">Karena materi di Bidji Course ini simpel dan lengkap. Pokoknya bakal sesuai dengan
+                <p class="lead mx-5">Karena materi di UMB Course ini simpel dan lengkap. Pokoknya bakal sesuai dengan
                     kebutuhanmu.</p>
                 <br>
                 <a class="btn btn-dark mx-5 text-white" href="{{ route('materi.index') }}">Mulai Belajar</a>
@@ -193,7 +193,7 @@
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
                 <h2 class="featurette-heading fw-semibold lh-1 mx-5">Bisa belajar gratis</h2>
-                <p class="lead mx-5">Bidji Course mendukung seluruh anak muda di Indonesia untuk tetap bisa belajar, tanpa
+                <p class="lead mx-5">UMB Course mendukung seluruh anak muda di Indonesia untuk tetap bisa belajar, tanpa
                     harus terhalang biaya apapun</p>
             </div>
             <div class="col-md-5 order-md-1">
@@ -260,7 +260,7 @@
 
         <div class="bg bg-cust-color bold-shadow rounded-4 p-5 text-center text-white">
             <h2 class="font-weight-500 mb-3">Tunggu apa lagi?</h2>
-            <p>Yuk belajar bareng Bidji Course</p>
+            <p>Yuk belajar bareng UMB Course</p>
             <a class="btn btn-light remove-style-link gtm-reg-btn-a mt-3" href="{{ route('register.index') }}">Buat Akun</a>
         </div>
 

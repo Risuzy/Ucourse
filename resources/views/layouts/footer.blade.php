@@ -9,7 +9,7 @@
                         </a>
                     </div>
                     <p>
-                        📚 Bidji Course adalah sebuah website pembelajaran untuk siswa-siswi Indonesia terutama siswa-siswi sekolah SD, SMP, SMA, SMK sederajat. Bidji Course menyediakan berbagai macam materi dan video pembelajaran yang dapat diakses secara gratis!
+                        📚 UMB Course adalah sebuah website pembelajaran untuk siswa-siswi Indonesia terutama siswa-siswi sekolah SD, SMP, SMA, SMK sederajat. Bidji Course menyediakan berbagai macam materi dan video pembelajaran yang dapat diakses secara gratis!
                     </p>
                 </div>
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -50,21 +50,18 @@
                     </p>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 mb-md-0 mx-auto mb-4">
-                    <h6 class="text-uppercase fw-bold mb-4">Kelompok A</h6>
+                    <h6 class="text-uppercase fw-bold mb-4">Kelompok 4</h6>
                     <p>
                         <i class="ti ti-code me-2"></i>
-                        <a class="text-reset text-decoration-none" href="https://www.instagram.com/puutuuu_/">Putu Wisnu Wirayuda Putra</a>
+                        <a class="text-reset text-decoration-none" href="https://www.instagram.com/puutuuu_/">Erik Safii</a>
                     </p>
-                    <p><i class="ti ti-user me-2"></i> M. Rayhan Ampurama</p>
-                    <p><i class="ti ti-code me-2"></i> Herro Arya Setiawan</p>
-                    <p><i class="ti ti-code me-2"></i> Alfatha Huga Anaku</p>
-                    <p><i class="ti ti-chart-bar me-2"></i> Nazla Nabila</p>
-                    <p><i class="ti ti-code me-2"></i> Fathan</p>
+                    <p><i class="ti ti-code me-2"></i> Sheva</p>
+                    <p><i class="ti ti-code me-2"></i> Arga</p>
                 </div>
             </div>
         </div>
     </section>
     <div class="p-4 text-center" style="background-color: rgba(0, 0, 0, 0.05);">
-        © 2023 Copyright: Bidji Course
+        © 2025 Copyright: UMB Course
     </div>
 </footer>
