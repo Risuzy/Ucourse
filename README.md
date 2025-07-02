@@ -3,7 +3,6 @@
 
 # Kelompok 4
 
-Repository ini dibuat bertujuan untuk memenuhi tugas besar mata kuliah Rekayasa Perangkat Lunak
 
 # Tentang UMBCourse
 
