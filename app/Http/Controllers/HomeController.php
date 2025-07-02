@@ -13,7 +13,7 @@ class HomeController extends Controller
     public function index()
     {
         return view('pages.landing-page', [
-            'title' => 'Selamat Datang di Bidji Course',
+            'title' => 'Selamat Datang di UMB Course',
             'courses' => Course::where('draft', false)->with('category')->orderByDesc('favorite')->limit(5)->get()
         ]);
     }

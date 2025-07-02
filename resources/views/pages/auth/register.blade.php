@@ -22,7 +22,7 @@
 @endsection
 @section('main')
     <div class="text-center" >
-        <h3>Daftar Bidji Course, yuk!</h3>
+        <h3>Daftar UMB Course, yuk!</h3>
     </div>
     <div class="d-flex justify-content-center container">
         <div class="containt-box flex justify-content-center mb-5">
@@ -106,7 +106,7 @@
             </div>
             <p class="text-secondary text-center">
                 Dengan melakukan pendaftaran, Kamu setuju dengan
-                <a href="">syarat & ketentuan Bidji Course.</a>
+                <a href="">syarat & ketentuan UMB Course.</a>
             </p>
         </div>
     </div>

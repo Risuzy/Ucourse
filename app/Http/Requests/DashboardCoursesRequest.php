@@ -37,7 +37,7 @@ class DashboardCoursesRequest extends FormRequest
       'slug' => ['required', 'unique:courses'],
       'cover' => ['image', 'file', 'max:5120', 'required'],
       'desc' => 'required',
-      'body' => 'required',
+      'body' => 'nullable',
       'submit' => 'required',
       'category_id' => ['required', Rule::in(Category::pluck('id')->all())],
     ];
@@ -72,7 +72,6 @@ class DashboardCoursesRequest extends FormRequest
       'cover.image' => 'File tidak didukung.',
       'cover.max' => 'Ukuran file max 5mb.',
       'desc.required' => 'Deskripsi harus diisi.',
-      'body.required' => 'Materi harus diisi.',
       'category_id.required' => 'Mata pelajaran harus dipilih.',
       'category_id.in' => 'Mata pelajaran tidak tersedia, silahkan tambahkan terlebih dahulu.',
     ];

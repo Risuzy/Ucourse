@@ -43,7 +43,7 @@
                             @empty
                                 <div class="text-center">
                                     <h5 class="card-title fw-bold">Kamu belum membuka materi apapun</h5>
-                                    <p class="card-text">Yuk, jelajahi semua materi yang ada di Bidji Course!</p>
+                                    <p class="card-text">Yuk, jelajahi semua materi yang ada di UMB Course!</p>
                                     <a class="btn btn-sm btn-primary" href="{{ route('materi.index') }}">Mulai Belajar</a>
                                 </div>
                             @endforelse
@@ -62,7 +62,7 @@
                             @if ($quizResults->isEmpty())
                                 <div class="text-center">
                                     <h5 class="card-title fw-bold">Kamu belum mengerjakan quiz apapun</h5>
-                                    <p class="card-text">Yuk, ukur kemampuanmu dengan mengerjakan quiz yang ada di Bidji Course!</p>
+                                    <p class="card-text">Yuk, ukur kemampuanmu dengan mengerjakan quiz yang ada di UMB Course!</p>
                                     <a class="btn btn-sm btn-success" href="{{ route('materi.index') }}">Mulai Kerjakan</a>
                                 </div>
                             @else

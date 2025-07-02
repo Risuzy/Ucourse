@@ -17,7 +17,7 @@
     @yield('style')
 </head>
 
-<body>
+<body style="background-color:rgb(255, 255, 255);">
     <header>
         @yield('navbar')
     </header>

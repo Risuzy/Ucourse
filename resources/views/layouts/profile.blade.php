@@ -80,7 +80,7 @@
                   @if ($profilePercentage == 100)
                     <p class="mt-3">Anda telah mengisi semua profil dengan lengkap.</p>
                   @else
-                    <p class="mt-3">Dengan melengkapi profil, Anda dapat menikmati layanan Bidji Course dengan maksimal.</p>
+                    <p class="mt-3">Dengan melengkapi profil, Anda dapat menikmati layanan UMB Course dengan maksimal.</p>
                     <button class="btn btn-primary btn-sm" x-on:click="$refs.profileEditBtn.click()">
                       <span class="fs-6 fw-bold">Lengkapi <i class="ti ti-chevrons-right"></i></span>
                     </button>

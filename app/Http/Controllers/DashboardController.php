@@ -16,7 +16,7 @@ class DashboardController extends Controller
     public function index()
     {
         return view('pages.dashboard.index', [
-            'title' => 'Bidji Course | Dashboard',
+            'title' => 'UMB Course | Dashboard',
             'courses' => Course::count(),
             'categories' => Category::count(),
             'admins' => User::where('is_admin', true)->count(),

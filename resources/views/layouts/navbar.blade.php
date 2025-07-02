@@ -2,10 +2,11 @@
 <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.7/dist/autoComplete.min.js"></script>
 
 
-<nav class="navbar navbar-expand-lg navbar-light d-flex fixed-top-sm fixed-top flex-row bg-white shadow-sm">
+<!-- <nav class="navbar navbar-expand-lg navbar-light d-flex fixed-top-sm fixed-top flex-row bg-white shadow-sm"> -->
+<nav class="navbar navbar-expand-lg navbar-light d-flex fixed-top-sm fixed-top flex-row shadow-sm" style="background-color: #B0DB9C ;">
     <div class="container-xl">
         <a class="navbar-brand" href="{{ route('index') }}">
-            <img src="/img/assets/Bidji Logo.svg" width="60" height="auto">
+            <img src="/img/assets/logoUMBC.svg" width="100" height="auto">
         </a>
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" type="button" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -40,10 +41,10 @@
             <ul class="navbar-nav ms-auto">
                 @if (!auth()->user())
                     <li class="nav-item">
-                        <a class="btn btn-secondary mx-1" href="{{ route('login.index') }}">Masuk</a>
+                        <a class="btn mx-1" href="{{ route('login.index') }}" style="background-color: #6D9F71; color: #fff;">Masuk</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-dark mx-1" href="{{ route('register.index') }}">Daftar</a>
+                        <a class="btn mx-1" href="{{ route('register.index') }}" style="background-color: #6D9F71; color: #fff;">Daftar</a>
                     </li>
                 @else
                     <li class="nav-item">

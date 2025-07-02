@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Bidji Course - Belajar Sedjak Dini'),
+    'name' => env('APP_NAME', 'UMB Course - Belajar Sedjak Dini'),
 
     /*
     |--------------------------------------------------------------------------

@@ -14,7 +14,7 @@ class LoginController extends Controller
     public function index()
     {
         return view('pages.auth.login', [
-            'title' => 'Bidji Course | Login'
+            'title' => 'UMB Course | Login'
         ]);
     }
 

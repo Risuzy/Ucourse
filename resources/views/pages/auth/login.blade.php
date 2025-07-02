@@ -63,7 +63,7 @@
             </div>
             <p class="text-secondary text-center">
                 Dengan melakukan Login, Kamu setuju dengan
-                <a href="">syarat & ketentuan Bidji Course.</a>
+                <a href="">syarat & ketentuan UMB Course.</a>
             </p>
         </div>
     </div>

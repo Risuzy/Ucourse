@@ -17,11 +17,11 @@
 
         .btn-cust-color {
             background-color: #0C1939;
-            color: #EFEFEF
+            color: #DDF6D2
         }
 
         .btn-cust-color-sec {
-            background-color: #EFEFEF;
+            background-color: #DDF6D2;
             color: #404040
         }
 
@@ -32,7 +32,7 @@
 
         .btn-cust-color:hover {
             background-color: #203978;
-            color: #EFEFEF
+            color: #DDF6D2
         }
 
         .bg-cust-color {

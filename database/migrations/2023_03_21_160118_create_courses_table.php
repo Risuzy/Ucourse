@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('slug')->unique();
             $table->string('cover');
             $table->longText('desc');
-            $table->longText('body');
+            $table->longText('body')->nullable();
             $table->integer('favorite')->default(0);
             $table->string('added_by');
             $table->string('last_edited_by');
